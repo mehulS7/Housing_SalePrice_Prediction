@@ -10,6 +10,6 @@ Please find the R script file inside, where I worked to prepare on dataset. It's
 
 > Update 2:
 - I have added the R script file, which contains the updated code, the method I used to prepare my normalised dataset.
-- A Matlab file is also included where the code of regression is written. I have not used any libraries yet, though I intend to use them in future for better optimization.
+- A Matlab file is also included where the code for regression and gradient descent is written. I have not used any libraries yet, though I intend to use them in future for better optimization.
 - I will keep working on it to improve my techniques and will try my best to add a Jupyter Notebook in my next update
 
